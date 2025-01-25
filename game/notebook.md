@@ -20,4 +20,5 @@ Clue no.5 Steel Ruler found at school
 Clue no.6 Glass Bottle found at cafeteria
 Clue no.7 Check the ofiices in the town hall
 CLue no.8 Wooden Box found at town hall
+Clue no.9 Go back and check dock (park)
 Location of the crime is still unknown - the room must have been empty when it happened...
