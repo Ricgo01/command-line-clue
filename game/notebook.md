@@ -22,4 +22,4 @@ Clue no.7 Check the ofiices in the town hall
 CLue no.8 Wooden Box found at town hall
 Clue no.9 Go back and check dock (park)
 Clue no.10 The Journalist found at town hall metteng room
-Location of the crime is still unknown - the room must have been empty when it happened...
+Location of the crime: the dock at the park
