@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Librarian
+- [X] The Librarian
 - [ ] The Mayor
 - [ ] The Police Officer
 
