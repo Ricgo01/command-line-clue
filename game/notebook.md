@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Walking Stick
-- [ ] Steel Ruler
+- [X] Steel Ruler
 - [X] Kitchen Knife
 
 ## Notes
