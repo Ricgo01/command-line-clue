@@ -1,0 +1,5 @@
+Investigation Update:
+
+You find a dropped keychain with a tag labeled 'cafeteria'.
+
+Remember: Use 'cd "cafeteria"' to follow this lead.
