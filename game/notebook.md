@@ -12,5 +12,5 @@
 
 ## Notes
 *Use this space to record your findings and deductions...*
-
+Clue no.1 The mayor was the last one to report activity near the playground
 Location of the crime is still unknown - the room must have been empty when it happened...
