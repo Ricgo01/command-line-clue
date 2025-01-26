@@ -3,7 +3,7 @@
 ## Suspects
 - [X] The Librarian
 - [ ] The Mayor
-- [ ] The Police Officer
+- [X] The Police Officer
 
 ## Weapons
 - [ ] Walking Stick
@@ -25,3 +25,4 @@ Clue no.10 The Journalist found at town hall metteng room
 Location of the crime: the dock at the park
 Clue no.11 The musician at the shops
 Clue no.12 The Tailor found at the bakery
+Clue no.13 The police oficcer was found at the school kitchen
