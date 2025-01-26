@@ -24,3 +24,4 @@ Clue no.9 Go back and check dock (park)
 Clue no.10 The Journalist found at town hall metteng room
 Location of the crime: the dock at the park
 Clue no.11 The musician at the shops
+Clue no.12 The Tailor found at the bakery
